@@ -6,7 +6,9 @@ export const TodosContext = createContext();
 const App = () => {
   return (
     <>
-      <div></div>
+      <div>
+        Test
+      </div>
     </>
   )
 }
